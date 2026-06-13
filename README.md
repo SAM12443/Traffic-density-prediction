@@ -38,5 +38,6 @@ Random Forest Classifier
 5. Model Training
 6. Model Evaluation
 7. Traffic Density Prediction
-Priyanshi Jain# Traffic-Density-Prediction
+##Author
+Samarth Rana# Traffic-Density-Prediction
 AI-Based Traffic Density Prediction using Machine Learning
